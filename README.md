@@ -39,3 +39,12 @@ MissTest is an open source project
   year = {2023},
 }
 ```
+
+
+
+## Reference 
+
+* [Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+* [7 Ways to Handle Missing Values in Machine Learning](https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e)
+* [Application of machine learning missing data imputation techniques in clinical decision making: taking the discharge assessment of patients with spontaneous supratentorial intracerebral hemorrhage as an example](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01752-6)
+* [A survey on missing data in machine learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00516-9)
